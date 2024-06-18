@@ -1,0 +1,13 @@
+com\mycompany\crudusingservlet\JakartaRestConfiguration.class
+DeleteServlet.class
+EditServlet2.class
+java\sql.class
+EditServlet.class
+ViewServlet.class
+Connection.class
+User.class
+SaveServlet.class
+UserDAO.class
+com\mycompany\crudusingservlet\resources\JakartaEE10Resource.class
+DriverManager.class
+java\sql$PreparedStatement.class
